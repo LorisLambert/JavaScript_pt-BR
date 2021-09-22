@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Módulo B</title>
+</head>
+<body>
+    <!-- INÍCIO DO JAVASCRIPT -->
+    <script>
+
+        /* 
+            (number + number) -> aperação de adição
+            (string + string) -> operação de concatenação
+            (string + number) -> operação de concatenação
+            (number + string) -> operação de concatenação
+        */
+
+        var info = window.prompt("Digite uma informação:") // Caixa de preenchimento para recebe uma string
+        window.alert("Você nos informou:" + info) // Concatenação de strings, pois info é uma string
+        
+        var n1 = Number(window.prompt("Digite um número:")) // Recebe uma string e converte em number
+        var n2 = Number(window.prompt("Digite um outro número:"))
+        var soma = n1 + n2
+        window.alert("A soma dos números é:" + soma) 
+        
+        /* 
+            Usando template strings
+            window.alert(`A soma entre ${n1} e ${n2} é ${soma}`) 
+        */
+
+        /*
+            (string) -> (number) : Number(), Number.parseFloat(), Number.parseInt()
+            (number) -> (string) : String(), 
+        */
+
+        var nome = window.prompt("Qual é o seu nome?")
+        document.write(`Olá, <strong>${nome}</strong>! Seu nome tem ${nome.length} letras. <br/>`) // Atributo não se usa parenteses
+        document.write(`Seu nome em maiúsculas é ${nome.toUpperCase()}<br/>`) // Método se usa parenteses
+        document.write(`Seu nome em minúsculas é ${nome.toLowerCase()}<br/>`)
+
+    </script>
+    <!-- FIM DO JAVASCRIPT -->
+</body>
+</html>
