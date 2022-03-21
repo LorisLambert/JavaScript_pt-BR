@@ -1,6 +1,6 @@
-<h1>Introdução ao repositório JavaScript_CemV&Google</h1>
+<h1>Introdução a pasta JavaScript_CemV&Google</h1>
 
-<p>Este repositório contém um material que fiz durante o curso ministrado pelo <strong style="color:#2727ff">Curso em Vídeo</strong> em parceria com a <strong><span style="color: #4885ed">G</span><span style="color:#db3236">o</span><span style=" color:#f4c20d">o</span><span style="color: #4885ed">g</span><span style="color:#3cba54">l</span><span style="color:#db3236">e</span></strong> sobre <mark style="background-color:rgb(240, 219, 79)"><i style="color: rgb(50, 51, 48)">javascript</i></mark> e <i>ECMA6</i></ECMA6>. Para acessar o curso completo, clique <a href="https://www.cursoemvideo.com/course/javascript/">aqui</a>.</p>
+<p>Esta pasta contém um material que fiz durante o curso ministrado pelo <strong style="color:#2727ff">Curso em Vídeo</strong> em parceria com a <strong><span style="color: #4885ed">G</span><span style="color:#db3236">o</span><span style=" color:#f4c20d">o</span><span style="color: #4885ed">g</span><span style="color:#3cba54">l</span><span style="color:#db3236">e</span></strong> sobre <mark style="background-color:rgb(240, 219, 79)"><i style="color: rgb(50, 51, 48)">javascript</i></mark> e <i>ECMA6</i></ECMA6>. Para acessar o curso completo, clique <a href="https://www.cursoemvideo.com/course/javascript/">aqui</a>.</p>
 
 <h1>Sumário</h1>
 
@@ -42,7 +42,7 @@
     <li><a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">ECMA 262.</a></li>
 </ul>
 
-<h3>Módulo B: Comendos Básicos do JavaScript<a name="content2"></a></h3>
+<h3>Módulo B: Comandos Básicos do JavaScript<a name="content2"></a></h3>
 
 <h5>Variáveis</h5>
 
