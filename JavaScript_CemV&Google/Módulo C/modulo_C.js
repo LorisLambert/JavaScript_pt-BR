@@ -4,7 +4,8 @@ let numParagrafos = window.document.getElementsByTagName("p").length
 // Lendo de cima para baixo os paragrafos do poema
 for (let i = numParagrafos; i>=0; i--) {
     let paragrafo = window.document.getElementsByTagName("p")[i]
-    // window.document.write(paragrafo.innerHTML + '<br>')
+    // console.log(paragrafo)
+    console.log(paragrafo.window.document.write(paragrafo + '<br>'))
 }
 
 // Alteração de estilo

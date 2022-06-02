@@ -77,8 +77,6 @@
     <li>Não pode conter espaços;</li>
     <li>Não pode ser palavras reservadas.</li>
 </ul>
-
-
 <p><i>OBS.: o JavaScript é case sensitive.</i></p>
 
 <h5>Tipos de Dados</h5>
@@ -98,15 +96,11 @@
     <li><strong>Symbol</strong>: (ECMAScript 6) um tipo de dado cujas instâncias são únicas e imutáveis;</li>
     <li><strong>String</strong>: palavras e anagramas.</li>
 </ul>
-
-
 <p>Tipo não primitivo:</p>
 
 <ul>
     <li><strong>Objeto</strong>: dado que é um tipo próprio e possui características específicas.</li>
 </ul>
-
-
 <h5>Operadores Aritméticos</h5>
 
 <ul>
@@ -117,8 +111,6 @@
     <li><strong><code>%</code></strong>: resto da divisão (5 <code>%</code> 2 = 1);</li>
     <li><strong><code>**</code></strong>: potência (5 <code>**</code> 2 = 25);</li>
 </ul>
-
-
 <h5>Ordem de precedência dos Operadores Aritméticos</h5>
 
 <ol>
@@ -127,8 +119,6 @@
     <li><strong><code>*</code></strong>, <b><code>/</code></b>e <b><code>%</code></b>;</li>
     <li><strong><code>+</code></strong> e <b><code>-</code></b>.</li>
 </ol>
-
-
 <p><i>Obs.: caso haja mais de um com a mesma ordem de precedência, a leitura será realizada sempre da esquerda para a direita.</i></p>
 
 <h5>Autoatribuições</h5>
@@ -141,16 +131,12 @@
     <li><code>n=n**4</code> pode ser <strong><code>n**=4</code></strong>;</li>
     <li><code>n=n%4</code> pode ser <strong><code>n%=4</code></strong>;</li>
 </ul>
-
-
 <h5>Incrementos</h5>
 
 <ul>
     <li><code>x=x+1</code> ou <code>x+=1</code> pode ser <strong><code>n++</code></strong>;</li>
     <li><code>x=x-1</code> ou <code>x-=1</code> pode ser <strong><code>n--</code></strong>;</li>
 </ul>
-
-
 <h5>Operadores Relacionais</h5>
 
 <ul>
@@ -181,8 +167,6 @@
     <li><strong><code>&&</code></strong> conjunção (<i>and</i>);</li>
     <li><strong><code>||</code></strong> disjunção (<i>or</i>).</li>
 </ul>
-
-
 <h5>Operador Ternário</h5>
 
 <p><i>Test</i> <code>?</code> <i>true</i> <code>:</code> <i>false</i></p>
@@ -193,6 +177,10 @@
 <p>DOM significa <i>Document Object Model</i>.</p>
 
 <h5>Árvore DOM</h5>
+
+<p></p>
+
+<img alt="DOM Tree" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/DOM-model.svg">
 
 <h5>Marca</h5>
 
